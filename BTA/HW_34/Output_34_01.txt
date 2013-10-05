@@ -1,0 +1,183 @@
+c:\qa\BTA\HW_34>ruby script_34_01.rb
+
+=====================================
+
+Author       : Nick Krimnus
+Date         : 2013-09-18 15:33:09
+OS           :i386-mingw32
+
+Ruby version : 1.9.3
+Script       : script_34_01
+Description  : Test cases automation on application Sign Up v1
+
+=====================================
+
+=============
+
+Title: Sign Up
+http://khatilov.com/qa/apps/sign_up/v1/
+
+==========================================
+=========================
+TEST CASE TC-01.01: Quote existence verification  - PASS
+==========================================
+=========================
+TEST CASE TC-01.02: Facebook image existence verification  - PASS
+==========================================
+=========================
+TEST CASE TC-01.03: Twitter image existence verification  - PASS
+==========================================
+=========================
+TEST CASE TC-01.04: Flickr image existence verification  - PASS
+==========================================
+=========================
+TEST CASE TC-01.05: YouTube image existence verification  - PASS
+==========================================
+=========================
+TEST CASE TC-01.06: First Name field existence verification  - PASS
+==========================================
+=========================
+TEST CASE TC-01.07: Last Name field existence verification  - PASS
+==========================================
+=========================
+TEST CASE TC-01.08: Email Address field existence verification  - PASS
+==========================================
+=========================
+TEST CASE TC-01.09: Phone Number field existence verification  - PASS
+==========================================
+=========================
+TEST CASE TC-01.10: Male radio button existence verification  - PASS
+==========================================
+=========================
+TEST CASE TC-01.11: Female radio button existence verification  - PASS
+==========================================
+=========================
+TEST CASE TC-01.12: State field existence verification  - PASS
+==========================================
+=========================
+TEST CASE TC-01.13: Terms checkbox existence verification  - PASS
+==========================================
+=========================
+TEST CASE TC-01.14: Reset button existence verification  - PASS
+==========================================
+=========================
+TEST CASE TC-01.15: Submit button existence verification  - PASS
+==========================================
+=========================
+TEST CASE TC-01.16: Last update existence verification  - PASS
+==========================================
+=========================
+TEST CASE TC-01.17: Copyright existence verification  - PASS
+==========================================
+=========================
+TEST CASE TC-01.18: Rubygems link existence verification  - PASS
+==========================================
+=========================
+TEST CASE TC-01.19: New Quote Verification - PASS
+==========================================
+=========================
+TEST CASE TC-01.20: Facebook Link Verification  - PASS
+==========================================
+=========================
+TEST CASE TC-01.21: Twitter Link Verification  - PASS
+==========================================
+=========================
+TEST CASE TC-01.22: Flickr Link Verification  - PASS
+==========================================
+=========================
+TEST CASE TC-01.23: YouTube Link Verification  - PASS
+==========================================
+=========================
+TEST CASE TC-01.24: Facebook image size verification  - PASS
+==========================================
+=========================
+TEST CASE TC-01.25: Twitter image size verification  - PASS
+==========================================
+=========================
+TEST CASE TC-01.26: Flickr image size verification  - PASS
+==========================================
+=========================
+TEST CASE TC-01.27: YouTube image size verification  - PASS
+==========================================
+=========================
+TEST CASE TC-01.28: First Name required field verification - PASS
+==========================================
+=========================
+TEST CASE TC-01.29: Last Name required field verification - PASS
+==========================================
+=========================
+TEST CASE TC-01.30: Email Address required field verification - PASS
+==========================================
+=========================
+TEST CASE TC-01.31: Phone Number required field verification - PASS
+==========================================
+=========================
+TEST CASE TC-01.32: First Name correctly formatted field verification - PASS
+==========================================
+=========================
+TEST CASE TC-01.33: First Name incorrectly formatted field verification - PASS
+==========================================
+=========================
+TEST CASE TC-01.34: Last Name correctly formatted field verification - PASS
+==========================================
+=========================
+TEST CASE TC-01.35: Last Name incorrectly formatted field verification - PASS
+==========================================
+=========================
+TEST CASE TC-01.36: Email Address correctly formatted field verification - PASS
+==========================================
+=========================
+TEST CASE TC-01.37: Email Address incorrectly formatted field verification - PASS
+==========================================
+=========================
+TEST CASE TC-01.38: Phone Number correctly formatted field verification - PASS
+==========================================
+=========================
+TEST CASE TC-01.39: Phone Number incorrectly formatted field verification - PASS
+==========================================
+=========================
+TEST CASE TC-01.40: Reset button click performance verification  - PASS
+==========================================
+=========================
+TEST CASE TC-01.41: Submit button click performance verification  - PASS
+==========================================
+=========================
+TEST CASE TC-01.42: Rubygems link click performance verification  - PASS
+==========================================
+=========================
+TEST CASE TC-01.43: Copyright text verification  - PASS
+==========================================
+=========================
+TEST CASE TC-01.44: Website title verification  - PASS
+==========================================
+=========================
+TEST CASE TC-01.45: Page title verification  - PASS
+==========================================
+=========================
+TEST CASE TC-01.46: First Name label verification  - PASS
+==========================================
+CONFORMATION PAGE
+=========================
+TEST CASE TC-01.47: Conformation page url verification  - PASS
+==========================================
+=========================
+TEST CASE TC-01.48: No Quote verification  - PASS
+==========================================
+=========================
+TEST CASE TC-01.49: No Facebook image verification  - PASS
+==========================================
+=========================
+TEST CASE TC-01.50: No Twitter image verification  - PASS
+==========================================
+=========================
+TEST CASE TC-01.51: No Flickr image verification  - PASS
+==========================================
+=========================
+TEST CASE TC-01.52: Back button existence verification  - PASS
+==========================================
+=========================
+TEST CASE TC-01.53: No Submit button verification - PASS
+==========================================
+=========================
+TEST CASE TC-01.54: No Last update verification  - PASS
+==========================================

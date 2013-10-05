@@ -1,0 +1,25 @@
+c:\qa\BTA\HW_37>rspec script_37_01.rb
+.
+
+Finished in 14.65 seconds
+1 example, 0 failures
+
+
+c:\qa\BTA\HW_37>rspec script_37_01.rb
+F
+
+Failures:
+
+  1) google.com Test case # 001: Search for watir
+     Failure/Error: @browser.title.should == "blah blah blah"                           # b. run
+       expected: "blah blah blah"
+            got: "watir - Google Search" (using ==)
+     # ./script_37_01.rb:21:in `block (2 levels) in <top (required)>'
+
+Finished in 15.15 seconds
+1 example, 1 failure
+
+Failed examples:
+
+rspec ./script_37_01.rb:15 # google.com Test case # 001: Search for watir
+

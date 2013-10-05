@@ -1,0 +1,5 @@
+Unable to find gem 'activerecord' in default gem paths
+
+Directories searched:
+C:/Ruby/lib/ruby/gems/2.0.0/specifications
+C:/Users/Nick/.gem/ruby/2.0.0/specifications

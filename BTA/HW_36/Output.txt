@@ -1,0 +1,75 @@
+
+C:\qa\BTA\HW_36>ruby script_36_01.rb --name test_03_last_name_field_verification
+Run options: --name test_03_last_name_field_verification
+
+# Running tests:
+
+.
+
+Finished tests in 12.454713s, 0.0803 tests/s, 0.0803 assertions/s.
+
+1 tests, 1 assertions, 0 failures, 0 errors, 0 skips
+
+
+C:\qa\BTA\HW_36>ruby script_36_01.rb
+Run options:
+
+# Running tests:
+
+..........
+
+Finished tests in 91.732247s, 0.1090 tests/s, 0.1199 assertions/s.
+
+10 tests, 11 assertions, 0 failures, 0 errors, 0 skips
+
+
+C:\qa\BTA\HW_36>ruby script_36_01.rb
+Run options:
+
+# Running tests:
+
+FFFFFFFFFF
+
+Finished tests in 85.101868s, 0.1175 tests/s, 0.1175 assertions/s.
+
+  1) Failure:
+test_01_title_verification(Sign_Up) [script_36_01.rb:32]:
+Element is not exist ...............
+
+  2) Failure:
+test_02_first_name_field_verification(Sign_Up) [script_36_01.rb:41]:
+Element is not exist ...............
+
+  3) Failure:
+test_03_last_name_field_verification(Sign_Up) [script_36_01.rb:50]:
+Element is not exist ...............
+
+  4) Failure:
+test_04_email_field_verification(Sign_Up) [script_36_01.rb:59]:
+Element is not exist ...............
+
+  5) Failure:
+test_05_phone_field_verification(Sign_Up) [script_36_01.rb:68]:
+Element is not exist ...............
+
+  6) Failure:
+test_06_gender_radio_buttons_verification(Sign_Up) [script_36_01.rb:78]:
+Element is not exist ...............
+
+  7) Failure:
+test_07_first_name_field_verification(Sign_Up) [script_36_01.rb:88]:
+Element is not exist ...............
+
+  8) Failure:
+test_08_terms_checkbox_verification(Sign_Up) [script_36_01.rb:97]:
+Element is not exist ...............
+
+  9) Failure:
+test_09_reset_button_verification(Sign_Up) [script_36_01.rb:106]:
+Element is not exist ...............
+
+ 10) Failure:
+test_10_submit_button_verification(Sign_Up) [script_36_01.rb:115]:
+Element is not exist ...............
+
+10 tests, 10 assertions, 10 failures, 0 errors, 0 skips
