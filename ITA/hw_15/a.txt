@@ -1,0 +1,58 @@
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : two
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : domain_not_set.invalid
+
+Ethernet adapter Local Area Connection 2:
+
+   Connection-specific DNS Suffix  . : domain_not_set.invalid
+   Description . . . . . . . . . . . : Intel(R) 82579V Gigabit Network Connection
+   Physical Address. . . . . . . . . : 10-78-D2-F5-57-E2
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::49c2:d617:e17d:234%13(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.10.104(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Saturday, September 07, 2013 10:00:20 AM
+   Lease Expires . . . . . . . . . . : Thursday, October 31, 2013 8:15:42 AM
+   Default Gateway . . . . . . . . . : 192.168.10.1
+   DHCP Server . . . . . . . . . . . : 192.168.10.1
+   DHCPv6 IAID . . . . . . . . . . . : 269514962
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-15-44-D6-F3-10-78-D2-E1-8F-F0
+   DNS Servers . . . . . . . . . . . : 192.168.10.1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Tunnel adapter isatap.domain_not_set.invalid:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : domain_not_set.invalid
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter Local Area Connection* 12:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft 6to4 Adapter
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter Local Area Connection* 9:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Teredo Tunneling Pseudo-Interface
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   IPv6 Address. . . . . . . . . . . : 2001:0:5ef5:79fb:ca1:c37:b4ed:2e73(Preferred) 
+   Link-local IPv6 Address . . . . . : fe80::ca1:c37:b4ed:2e73%15(Preferred) 
+   Default Gateway . . . . . . . . . : ::
+   NetBIOS over Tcpip. . . . . . . . : Disabled
