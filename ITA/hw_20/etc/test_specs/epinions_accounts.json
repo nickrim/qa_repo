@@ -1,0 +1,46 @@
+{
+    "epinions_invalid_id":
+        [
+             {
+                "username" : "qa1110x", "password" : "testing"
+            },           {
+                "username" : "qa20", "password" : "testing"
+            },
+            {
+                "username" : "qa22", "password" : "testing"
+            },
+            {
+                "username" : "qa23", "password" : "testing"
+            }
+        ],
+    "epinions_invalid_password":
+        [
+            {
+                "username" : "qa1110", "wrong" : "testing"
+            },		
+            {
+                "username" : "qa15", "password" : "123test"
+            },
+            {
+                "username" : "qa16", "password" : "123test"
+            },
+            {
+                "username" : "qa17", "password" : "123test"
+            }
+        ],
+    "epinions_valid_accounts":
+        [
+            {
+                "username" : "qa1110", "password" : "testing"
+            },
+            {
+                "username" : "qa15", "password" : "testing"
+            },
+            {
+                "username" : "qa16", "password" : "testing"
+            },
+            {
+                "username" : "qa17", "password" : "testing"
+            }
+        ]
+}
